@@ -4,6 +4,7 @@
 
 1. Docker
 2. AWS Cli
+3. Localstack
 
 ### Comands to be utilized:
 
