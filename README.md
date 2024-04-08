@@ -1,6 +1,6 @@
 # SQS in GO
 
-### Tools already installed
+### Tools already need to have installed
 
 1. Docker
 2. AWS Cli
